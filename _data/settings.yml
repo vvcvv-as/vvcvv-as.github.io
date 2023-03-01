@@ -2,7 +2,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: VVCVV
 logo:
 author: themefisher
 description: this is meta description
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Chenxi Wan <br> USTC
 
 social:
   - { icon: "ti-facebook", link: "#" }
